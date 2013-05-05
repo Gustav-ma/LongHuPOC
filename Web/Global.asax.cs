@@ -25,5 +25,7 @@ namespace LongHu.Web
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
         }
+
+
     }
 }
